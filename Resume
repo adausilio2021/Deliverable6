@@ -1,0 +1,145 @@
+<h>Resume</h>
+<h2>Education</h2>
+<p1>University of South Florida<br>
+Bachelor of Science in Management Information Systems<br>
+Graduating August of 2021
+</p1>
+<h3>Experience</h3>
+<h4>Customer Care Associate</h4>
+<p2>-Responsible for cash flow and keeping detailed records  of customer payments, communications, and conflict resolution<br>-Assisted in the integration and training of a new phone system<br>
+- Communicated with clients about their experience and relate relevant information to the chain of
+management<br>
+- Greeted and assisted 100+ clients a day with concerns, appointments and directions<br>
+
+</p2>
+<h5>Accounting Intern</h5>
+<p3>
+- Reconciled and managed 5 accounts<br>
+- Reviewed monthly financial statement and prepared them for analysis<br>
+- Assist with general accounting month-end closing procedures<br>
+- Complete special projects as needed and other duties assigned
+</p3>
+<h6>Fitness Center Assistant</h6>
+<p4>
+- Responsible for selling memberships and processing transactions<br>
+- Assisted patrons with relevant information concerning their safety<br>
+- Performed routine equipment inventory to ensure a safe and hospitable environment<br>
+- Maintained a high level of cleanliness for the facility to ensure ADA accessibility and Fire Safety
+</p4><br>
+<h7>Skills and Attributes</h7>
+<p5><br>
+-Quickbooks<br>
+-Microsoft Office<br>
+-Excel<br>
+-Word<br>
+-Access<br>
+-Google Drive<br>
+-MySQL<br>
+</p5>
+<h8>Leadership and Awards</h8><br>
+<h9>Delta Sigma Pi: Rho Psi Chapter</h9><br>
+<p6>
+-Banquet Committee<br>
+-Vice President of Pledge Education<br>
+-Rho Psi Collegian of the Year<br>
+-Vice President of Scholarships and Awards<br>
+</p6>
+
+<style>
+h1{
+color:black;
+font-family:Times;
+font-size:275%;
+font-weight: 900;
+}
+h{
+color:black;
+font-family:Times;
+font-size:250%;
+font-weight: 700;
+}
+h2{
+color:black;
+font-family:Times;
+font-size:125%;
+font-weight: bold;
+}
+h3{
+color:black;
+font-family:Times;
+font-size:125%;
+font-weight: bold;
+}
+h4{
+color:black;
+font-family:Times;
+font-size:80%;
+font-weight: 550;
+}
+h5{
+color:black;
+font-family:Times;
+font-size:80%;
+font-weight: 550;
+}
+h6{
+color:black;
+font-family:Times;
+font-size:80%;
+font-weight: 550;
+}
+p1{
+color:black;
+font-family:Times;
+font-size:50%;
+font-weight: 300;
+}
+p2{
+color:black;
+font-family:Times;
+font-size:50%;
+font-weight: 300;
+}
+p3{
+color:black;
+font-family:Times;
+font-size:50%;
+font-weight: 300;
+}
+p4{
+color:black;
+font-family:Times;
+font-size:50%;
+font-weight: 300;
+}
+h7{
+color:black;
+font-family:Times;
+font-size:125%;
+font-weight: bold;
+}
+h8{
+color:black;
+font-family:Times;
+font-size:125%;
+font-weight: bold;
+}
+p5{
+color:black;
+font-family:Times;
+font-size:50%;
+font-weight: 300;
+}
+p6{
+color:black;
+font-family:Times;
+font-size:50%;
+font-weight: 300;
+}
+h9{
+color:black;
+font-family:Times;
+font-size:80%;
+font-weight: 550;
+}
+</style>
